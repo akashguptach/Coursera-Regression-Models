@@ -1,6 +1,5 @@
 ---
-title: "Regression Models Project - Motor Trend Data Analysis Report"
-author: "by Xiaodan (Sally) Zhang"
+title: "Regression Models Course Project"
 output:
   pdf_document:
     fig_height: 7
